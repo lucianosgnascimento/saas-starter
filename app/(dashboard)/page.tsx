@@ -15,7 +15,8 @@ export default function HomePage() {
               </h1>
               <p className="mt-3 text-base text-gray-500 sm:mt-5 sm:text-xl lg:text-lg xl:text-xl">
                 Caraca é muito facil subir uma pagina online com o vercel
-                Bora rodar tudo por gitzinho 
+                Bora rodar tudo por gitzinho, pode pah. Mais rapido impossivel.
+                Mais coisas
               </p>
               <div className="mt-8 sm:max-w-lg sm:mx-auto sm:text-center lg:text-left lg:mx-0">
                 <a
